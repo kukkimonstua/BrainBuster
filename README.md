@@ -1,1 +1,2 @@
 # BrainBuster
+<p>Brain Buster is a puzzle game where the user plays birthday scavenger hunt in a house. Each room contains a locked present that has a key hidden somewhere in the vicinity. Using various sensors on the phone, the user will solve puzzles in 4 different rooms. The level of difficulty increases with each room and the user will have to think outside the box and use their intuition. Hints will be made available through webpage if the user is stuck on a puzzle.<p>
